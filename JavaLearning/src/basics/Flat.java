@@ -33,7 +33,7 @@ public class Flat {
 		System.out.println(f1.flatRent);
 		System.out.println(f1.flatMembers);
 //		f1.cleanFlat();
-//		
+
 //		Flat f2  = new Flat();
 //		f2.flatOwner = "Geetha";
 //		f2.flatRent = 2800;
